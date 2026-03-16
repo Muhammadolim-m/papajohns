@@ -1,0 +1,188 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+/* asadbek */
+.header{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 50px;
+    padding-top: 10px;
+   
+}
+.asadbekdiv{
+    padding: 10px 0;
+    margin-right: 50px;
+}
+.asadbekdiv{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+.asadbekh3{
+    padding:20px;
+    color: #F5A61C;
+    font-size: 2rem;
+}
+.asadbekp{
+    color:#6F1EAA;
+}
+.asadbekbutton{
+    background-color:#6F1EAA;
+    color: white;
+    border-radius: 20px;
+   padding:10px 40px ;
+    list-style: none;
+    border: none;
+  
+}
+
+.asadbekdiv1{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    gap: 30px;
+    padding: 20px;
+}
+
+.asadbekh1{
+    width:350px;
+     font-size: 55px;
+    width: 565px;
+    padding-top: 100px;
+}
+.asadbekspan{
+    color: #6F1EAA;
+}
+.asadbekp1{
+    text-align: center;
+    padding-top: 32px;
+    width: 490px;
+    font-size: 20px;
+}
+.asadbek{
+   text-align: center;
+}
+.asadbekdiv4{
+    display: flex;
+    justify-content: space-between;
+    
+    align-items: center;
+    
+   
+}
+.asadbeprivet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+.asadbeksection{
+    width: 100%;
+    height: 651px;
+     background-color: #FEF7E5;
+}
+.asadbekbutton1{
+     background-color:#6F1EAA;
+    color: white;
+    border-radius: 20px;
+   padding: 10px 40px;
+    margin-top: 32px;
+    border: none;
+}
+.asadbekimg{
+   display: flex;
+   justify-content: center;
+   margin-left:400px;
+}
+/* muhammad */
+
+
+.msection {
+  width: 100%;
+  height: 663px;
+  background-color: rgb(229, 220, 220);
+  text-align: center;
+}
+.muhammadtitle {
+  font-size: 44px;
+  text-align: center;
+  padding-top: 40px;
+}
+.muhammadbox1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+}
+.smalbox {
+  width: 359px;
+  height: 329px;
+  text-align: center;
+  margin-top: 65px;
+}
+.smalbox h4 {
+  font-size: 24px;
+  color: #6f1eaa;
+  padding-top: 31px;
+}
+.smalbox p {
+  padding-top: 20px;
+  width: 357px;
+  font-size: 16px;
+}
+.smalbox img {
+  width: 100%;
+  height: 192px;
+}
+.muhammadtext {
+  font-size: 11px;
+  line-height: 22px;
+  padding-top: 20px;
+}
+.muhammadbtn {
+  background-color: #6f1eaa;
+  padding: 14px 40px;
+  color: white;
+  border-radius: 24px;
+  border: none;
+  margin-top: 48px;
+}
+.muhammadbtn2 {
+  background-color: #6f1eaa;
+  padding: 14px 40px;
+  color: white;
+  border-radius: 24px;
+  border: none;
+}
+.muhammadtitle2 {
+  font-size: 44px;
+  line-height: 53px;
+  padding-bottom: 40px;
+}
+.booox {
+  width: 560px;
+}
+.msection2 {
+  background-color: rgb(220, 205, 205);
+}
+.booox h4 {
+  color: #f7a500;
+  padding-bottom: 8px;
+  letter-spacing: 0.96px;
+}
+.kattabox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding-top: 48px;
+}
+.muhtext {
+  line-height: 22.72px;
+  padding-bottom: 32px;
+}
